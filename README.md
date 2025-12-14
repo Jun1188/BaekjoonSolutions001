@@ -46,5 +46,7 @@ Each solution file includes:
 
 ## Notes
 - All solutions are written in C++
-- Fast I/O is enabled by default in the template (`ios_base::sync_with_stdio(false)`)
+- Fast I/O is enabled by default in the template (`ios_base::sync_with_stdio(false)` and `cin.tie(NULL)`)
+  - These optimizations improve performance for problems with large input/output
+  - Can be removed for very simple problems if not needed
 - Solutions focus on correctness and efficiency

@@ -15,6 +15,7 @@
 using namespace std;
 
 int main() {
+    // Fast I/O optimization (useful for large input/output)
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     

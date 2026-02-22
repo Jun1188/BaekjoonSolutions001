@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBCC0\uC900\uC601\\OneDrive - \uD55C\uAD6D\uACF5\uD559\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\BaekjoonSolutions001\\Sol10_Num11718\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196E489C-FA26-46BF-A34E-1089A14CB457}|Sol10_Num11718\\Sol10_Num11718.vcxproj|C:\\Users\\\uBCC0\uC900\uC601\\OneDrive - \uD55C\uAD6D\uACF5\uD559\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\BaekjoonSolutions001\\Sol10_Num11718\\Sol10_Num11718\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{196E489C-FA26-46BF-A34E-1089A14CB457}|Sol10_Num11718\\Sol10_Num11718.vcxproj|solutionrelative:Sol10_Num11718\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\\uBCC0\uC900\uC601\\OneDrive - \uD55C\uAD6D\uACF5\uD559\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\BaekjoonSolutions001\\Sol10_Num11718\\Sol10_Num11718\\FileName.cpp",
+              "RelativeDocumentMoniker": "Sol10_Num11718\\FileName.cpp",
+              "ToolTip": "C:\\Users\\\uBCC0\uC900\uC601\\OneDrive - \uD55C\uAD6D\uACF5\uD559\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\BaekjoonSolutions001\\Sol10_Num11718\\Sol10_Num11718\\FileName.cpp*",
+              "RelativeToolTip": "Sol10_Num11718\\FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T06:10:44.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
